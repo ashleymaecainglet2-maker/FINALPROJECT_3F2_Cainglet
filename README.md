@@ -1,18 +1,1 @@
-# Gym Management System
-
-## Student Name
-Ashley Mae Cainglet
-
-## Course and Section
-BSIT - 3F2
-
-## Project Description
-A web-based system for managing gym memberships, attendance tracking, and payment records.
-
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Git and GitHub
+Project Title: FitLedger: Gym Management System Student Name: Ashley Mae Cainglet Course and Section: BSIT II-F2 Project Description: A streamlined B2B SaaS administrative dashboard designed for independent gyms in the Philippines. It replaces manual logbooks with a centralized platform featuring QR code check-ins, automated background checks for active subscriptions, and GCash payment integration.Technologies Used: Laravel 11, Filament PHP v3, MySQL, PayMongo API, Tailwind CSS.
