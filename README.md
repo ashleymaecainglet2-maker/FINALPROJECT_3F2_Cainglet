@@ -1,7 +1,7 @@
 # Gym Management System
 
 ## Student Name
-Ashlee Mae Cainglet
+Ashley Mae Cainglet
 
 ## Course and Section
 BSIT - 3F2
